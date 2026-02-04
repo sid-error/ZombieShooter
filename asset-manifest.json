@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zombie-shooter/static/css/main.98e580b3.css",
-    "main.js": "/zombie-shooter/static/js/main.5dfc0ecf.js",
-    "static/js/453.77b8785d.chunk.js": "/zombie-shooter/static/js/453.77b8785d.chunk.js",
-    "index.html": "/zombie-shooter/index.html",
-    "main.98e580b3.css.map": "/zombie-shooter/static/css/main.98e580b3.css.map",
-    "main.5dfc0ecf.js.map": "/zombie-shooter/static/js/main.5dfc0ecf.js.map",
-    "453.77b8785d.chunk.js.map": "/zombie-shooter/static/js/453.77b8785d.chunk.js.map"
+    "main.css": "/ZombieShooter/static/css/main.98e580b3.css",
+    "main.js": "/ZombieShooter/static/js/main.35c4348a.js",
+    "static/js/453.77b8785d.chunk.js": "/ZombieShooter/static/js/453.77b8785d.chunk.js",
+    "index.html": "/ZombieShooter/index.html",
+    "main.98e580b3.css.map": "/ZombieShooter/static/css/main.98e580b3.css.map",
+    "main.35c4348a.js.map": "/ZombieShooter/static/js/main.35c4348a.js.map",
+    "453.77b8785d.chunk.js.map": "/ZombieShooter/static/js/453.77b8785d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98e580b3.css",
-    "static/js/main.5dfc0ecf.js"
+    "static/js/main.35c4348a.js"
   ]
 }
