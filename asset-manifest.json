@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zombie-shooter/static/css/main.98e580b3.css",
+    "main.js": "/zombie-shooter/static/js/main.5dfc0ecf.js",
+    "static/js/453.77b8785d.chunk.js": "/zombie-shooter/static/js/453.77b8785d.chunk.js",
+    "index.html": "/zombie-shooter/index.html",
+    "main.98e580b3.css.map": "/zombie-shooter/static/css/main.98e580b3.css.map",
+    "main.5dfc0ecf.js.map": "/zombie-shooter/static/js/main.5dfc0ecf.js.map",
+    "453.77b8785d.chunk.js.map": "/zombie-shooter/static/js/453.77b8785d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98e580b3.css",
+    "static/js/main.5dfc0ecf.js"
+  ]
+}
